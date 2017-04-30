@@ -1,0 +1,27 @@
+{
+  "name": "line_robot",
+  "version": "1.0.0",
+  "description": "a personal assistant for line@",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/sr_dhoni/line_robot.git"
+  },
+  "keywords": [
+    "line",
+    "robot"
+  ],
+  "author": "Dhoni | Jonathan",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/sr_dhoni/line_robot#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongoose": "^4.8.2",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.2",
+    "sqlite": "^2.3.0"
+  }
+}
