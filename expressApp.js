@@ -22,5 +22,5 @@ bot.on(LINEBot.Events.MESSAGE, function(replyToken, incomingData) {
 	}
 });
 
-server.listen(3000);
+server.listen(8080);
 
